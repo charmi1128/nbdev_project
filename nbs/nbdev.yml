@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_project"
+  site-url: "https://charmi1128.github.io/nbdev_project"
+  description: "Demo in nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/charmi1128/nbdev_project"
