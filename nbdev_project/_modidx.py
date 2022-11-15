@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://charmi1128.github.io',
                 'git_url': 'https://github.com/charmi1128/nbdev_project',
                 'lib_path': 'nbdev_project'},
-  'syms': {'nbdev_project.core': {'nbdev_project.core.foo': ('core.html#foo', 'nbdev_project/core.py')}}}
+  'syms': {}}
